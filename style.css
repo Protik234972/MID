@@ -18,7 +18,7 @@
     z-index: 100;
   }
   footer {
-    position: fixed;
+    position: relative;
     width: 100%;
     bottom: 0;
     z-index: 100;
@@ -71,6 +71,18 @@
     width: 350px;
     margin-left: -200px;
     margin-top: 50px;
+  }
+/* font */
+.freehand-regular {
+    font-family: "Freehand", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
   }
 /* product */
 
